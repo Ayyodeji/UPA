@@ -15,7 +15,7 @@
           <div class="h-[400px]">
             <img
               class="h-full img_fit w-full md:rounded-full"
-              src="/img/ceoOne.JPG"
+              src="/img/ceo1.jpg"
               style="object-position: top center"
             />
           </div>
@@ -34,7 +34,7 @@
           <div class="h-[400px]">
             <img
               class="h-full img_fit w-full md:rounded-full"
-              src="/img/bxmbo.JPG"
+              src="/img/ceo2.jpg"
               style="object-position: top center"
             />
           </div>
