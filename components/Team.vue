@@ -39,7 +39,7 @@
             />
           </div>
           <div class="py-[10px] flex justify-center flex-col items-center">
-            <h1>Mr Bimbo Adenuga</h1>
+            <h1>Mr Israel Adenuga</h1>
             <h3 class="text-primary">Director</h3>
           </div>
         </div>
