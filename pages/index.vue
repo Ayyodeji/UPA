@@ -5,7 +5,6 @@
     <WelcomeSection class='overflow-hidden' />
     <Services class='overflow-hidden' />
     <LatestProject class="overflow-hidden" />
-    <Team class="overflow-x-hidden" />
     <Globe />
     <Partners />
     <Footer />
