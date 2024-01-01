@@ -74,25 +74,27 @@
                 </div>
               </div>
               <div
-                class="px-[24px] h-[280px] lg:w-[280px] rounded-[8px] py-[16px] bg-white flex flex-col gap-[10px]"
+                class="px-[24px] h-[280px] rounded-[8px] py-[16px] bg-white flex flex-col gap-[40px]"
               >
-                <div class="bg-primary w-fit text-white py-3 px-4 rounded-xl">
-                  <span><i class="pi pi-map-marker"></i></span>
-                </div>
+                <div></div>
                 <div>
                   <h3
                     class="text-[16px] leading-[32px] font-[600] text-darkGreen"
                   >
                     Address
                   </h3>
-
                   <p class="leading-[30px] text-[14px] text-darkGreen">
-                    Send Us a Private Message
+                    Visit their office HQ
                   </p>
-                  <p class="underline text-[400] leading-[30px]">
-                    Plot 21 A.E.Ekukinam Street,Wing B 3rd floor,Deo-Gratias
-                    Plaza,Utako, FCT-Abuja.
-                  </p>
+                  <a
+                    href="https://maps.app.goo.gl/2ZHNpsyyZwoxQhwj7?g_st=ic"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="underline text-[400] leading-[30px] text-primary cursor-pointer"
+                  >
+                    Plot 21 A.E.Ekukinam Street, Wing B 3rd floor, Deo-Gratias
+                    Plaza, Utako, FCT-Abuja.
+                  </a>
                 </div>
               </div>
             </div>
@@ -154,13 +156,15 @@
                 <p class="leading-[30px] text-[14px] text-darkGreen">
                   Visit their office HQ
                 </p>
-                <Nuxt-link
-                  to="https://www.google.com/maps/search/Deo-Gratias+Plaza,+Wing+B,+3rd+floor+Plot+21A,+Ekukinam+Street+Opp,+Utako+Market,+Abuja./@9.0670457,7.4424159,17z/data=!3m1!4b1?entry=ttu"
+                <a
+                  href="https://maps.app.goo.gl/2ZHNpsyyZwoxQhwj7?g_st=ic"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   class="underline text-[400] leading-[30px] text-primary cursor-pointer"
                 >
-                  Plot 21 A.E.Ekukinam Street,Wing B 3rd floor,Deo-Gratias
-                  Plaza,Utako, FCT-Abuja..
-                </Nuxt-link>
+                  Plot 21 A.E.Ekukinam Street, Wing B 3rd floor, Deo-Gratias
+                  Plaza, Utako, FCT-Abuja.
+                </a>
               </div>
             </div>
           </div>
